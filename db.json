@@ -1,0 +1,31 @@
+{
+    "users": [
+      {
+        "name": "nadnar",
+        "email": "nandar@test.com",
+        "password": "nandar123",
+        "id": 1
+      },
+      {
+        "name": "Peter",
+        "email": "peter@test.com",
+        "password": "Peter",
+        "id": 2
+      },
+      {
+        "name": "bruce",
+        "email": "bruce@test.com",
+        "password": "123",
+        "id": 3
+      }
+    ],
+    "books": [
+      {
+        "name": "aa ",
+        "author": "aa",
+        "published": "aa",
+        "rating": 1,
+        "id": 1
+      }
+    ]
+  }
